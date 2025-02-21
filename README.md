@@ -4,7 +4,8 @@ Hey there! Welcome to My Sneaker Store, a one-page site built with React and Vit
 
 	• A single-page store where you can favorite (♥) items.
 	• Built using React, styled with Tailwind, and set up via Vite.
-	• Pulls product data from a JSON file (because fake data for the win).
+	• Pulls product data from a JSON file.
+ 	• Feature Banner component to highlight the sneaker of the week.
 
 How to get started: 
 
