@@ -1,6 +1,4 @@
-# React + Vite
-
-Sneaker Store - README
+# Sneaker Store - README
 
 Hey there! Welcome to My Sneaker Store, a one-page site built with React and Vite for an assignment and to show how easy it is to favorite them. Here’s a quick rundown:
 
