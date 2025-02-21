@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Pink Sneakers",
+      "price": 79.99,
+      "image": "src/assets/images/pinkSneakers.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "White Sneakers",
+      "price": 29.99,
+      "image": "src/assets/images/whiteSneakers.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Yellow Sneakers",
+      "price": 49.99,
+      "image": "src/assets/images/yellowSneakers.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Blue Sneakers",
+      "price": 59.99,
+      "image": "src/assets/images/blueSneakers.jpeg"
+    }
+  ]
